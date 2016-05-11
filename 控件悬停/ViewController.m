@@ -26,6 +26,8 @@
  *   添加控件
  */
 
+
+
 // 悬停view离顶部的高度
 static CGFloat const height = 100;
 -(void)setupView
